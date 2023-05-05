@@ -1,0 +1,23 @@
+{
+  "name": "cy-auto-userroleperm",
+  "version": "1.0.0",
+  "description": "This repository is been created to store all the Automation Script related to User Role Permission",
+  "main": "index.js",
+  "scripts": {
+    "test:uiAutomation": "node_modules/cypress/bin/cypress run --env host=https://master.marginedge.com/ --headless --browser chrome",
+    "test:uiAutomationAWS": "/usr/lib/node_modules/cypress/bin/cypress run --env host=https://master.marginedge.com/ --headless --browser chrome"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://bitbucket.org/marginedge/cy-auto-userroleperm.git"
+  },
+  "author": "Prashant Sinha",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/marginedge/cy-auto-userroleperm#readme",
+  "devDependencies": {
+    "cypress": "^10.3.0",
+    "cypress-file-upload": "^5.0.8",
+    "cypress-terminal-report": "^5.1.1",
+    "cypress-xpath": "^2.0.1"
+  }
+}

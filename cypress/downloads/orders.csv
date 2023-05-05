@@ -1,0 +1,54 @@
+"Upload Date","Vendor","Invoice Number","Invoice Date","Payment","Status","Total","Priority Level"
+"04/17/2023",,,,"A/P","Initial Review",,"0 Days Old"
+"04/17/2023","JFC","MI2213","04/17/2023","A/P","Closed","8",
+"04/17/2023","JFC","inv115","04/17/2023","A/P","Closed","150",
+"04/17/2023","JFC","inv113","04/14/2023","A/P","Closed"," -130",
+"04/17/2023","Harry's Hooch","inv112","04/14/2023","A/P","Closed","0",
+"04/17/2023","Harry's Hooch","inv111","04/10/2023","A/P","Closed","10",
+"04/17/2023","Larry's Lettuce","ll",,"A/P","In Reconciliation","14.4","0 Days Old"
+"04/17/2023","Larry's Lettuce","L02",,"A/P","Final Review","100","0 Days Old"
+"04/17/2023","Arrow","mb1234","04/17/2023","A/P","Closed","2076.16",
+"04/17/2023","Harry's Hooch","MI4124C","04/17/2023","A/P","Closed"," -20",
+"04/17/2023","Harry's Hooch","MI2199","04/17/2023","A/P","Closed","52",
+"04/17/2023",,,,"A/P","Initial Review",,"0 Days Old"
+"04/17/2023","Larry's Lettuce","11","04/10/2023","A/P","Closed","10",
+"04/17/2023","Sysco","12345",,"Accounts Payable","In Reconciliation","108.81","0 Days Old"
+"04/17/2023","Mike's Meat",,,"Accounts Payable","In Reconciliation","4","0 Days Old"
+"04/17/2023",,,,"A/P","Initial Review",,"0 Days Old"
+"04/17/2023","Arrow","Test",,"A/P","In Reconciliation","1","0 Days Old"
+"04/17/2023",,,,"Accounts Payable","Initial Review",,"0 Days Old"
+"04/17/2023","Arrow","inv1","04/06/2023","A/P","Closed","85",
+"04/17/2023","JFC","ME470801",,"A/P","In Reconciliation","549","0 Days Old"
+"04/17/2023","Harry's Hooch","inv104C","04/17/2023","A/P","Closed"," -35",
+"04/17/2023","Harry's Hooch","inv104","04/17/2023","A/P","Closed","70",
+"04/17/2023","Arrow","inv102","04/17/2023","Alternate AP","Closed","12",
+"04/17/2023","Larry's Lettuce","inv11","04/17/2023","A/P","Closed","16.6",
+"04/17/2023","Arrow","test111","04/17/2023","Alternate AP","Closed","111",
+"04/17/2023","Fred's Fish","FF #01","04/10/2023","A/P","Closed","7.5",
+"04/17/2023","Fred's Fish",,,"A/P","Initial Review","7.5","0 Days Old"
+"04/17/2023",,,,"A/P","Initial Review",,"1 Day Old"
+"04/17/2023","A. Russo & Sons, Inc.","04/17/2023-2","04/16/2023","Check: 1000005, ME Bill Pay (011000015) - 5678","Closed"," -1",
+"04/17/2023","A. Russo & Sons, Inc.","04/17/2023","04/17/2023","Check: 1000005, ME Bill Pay (011000015) - 5678","Closed","10",
+"04/17/2023","JFC",,,"A/P","Final Review","1","1 Day Old"
+"04/16/2023","A. Russo & Sons, Inc.","1","04/16/2023","A/P","Image Pending","1",
+"04/15/2023","Arrow","123","04/15/2023","Checks: 333, daedakChwk, EFT00005087, Checking Account","Closed","35",
+"04/15/2023","High Quality Seafood","4",,"A/P","Final Review","24","3 Days Old"
+"04/15/2023","High Quality Seafood","3",,"A/P","AM Review","12","3 Days Old"
+"04/15/2023","High Quality Seafood","2",,"A/P","In Reconciliation","12","3 Days Old"
+"04/15/2023","High Quality Seafood","1",,"A/P","Initial Review","11","3 Days Old"
+"04/15/2023","SmokeTest House","STH-VC-GL1","01/07/2018","Visa","Closed"," -12",
+"04/15/2023","SmokeTest House","STH-VC-AP2","01/07/2018","Alternate AP","Closed"," -8",
+"04/15/2023","SmokeTest House","STH-VC-AP1","01/07/2018","A/P","Closed"," -4",
+"04/15/2023","SmokeTest House","STH-CK3","01/06/2018","Check: 53212, Checking Account","Closed","48",
+"04/15/2023","SmokeTest House","STH-CK2","01/05/2018","Check: 53211, Checking Account","Closed","40",
+"04/15/2023","SmokeTest House","STH-CK1","01/04/2018","Checking Account","Closed","32",
+"04/15/2023","SmokeTest House","STH-IN-GL1","01/03/2018","Visa","Closed","24",
+"04/15/2023","SmokeTest House","STH-IN-AP2","01/02/2018","Alternate AP","Closed","16",
+"04/15/2023","SmokeTest House","STH-IN-AP1","01/01/2018","A/P","Closed","8",
+"04/15/2023","JFC","0000000006","04/13/2023","A/P","Closed","976.8",
+"04/15/2023","JFC","0000000005","04/09/2023","A/P","Closed","1115.4",
+"04/15/2023","JFC","0000000004","04/01/2023","A/P","Closed","1126.6",
+"04/15/2023","JFC","0000000003","03/28/2023","A/P","Closed","1013.4",
+"04/15/2023","JFC","0000000002","03/26/2023","A/P","Closed","660.5",
+"04/15/2023","JFC","0000000001","03/24/2023","A/P","Closed","974.6",
+"04/15/2023","Arrow","TEST_INVOICE","04/14/2023","Check: 1234, Checking Account","Closed","123",
